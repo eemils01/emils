@@ -85,9 +85,9 @@ text-align: center;
   background: transparent;
   border: none;
   outline: none;
-  border: 2px solid rgba(255, 255, 255, .2);
+  border: 2px solid rgba(31, 7, 7, 0.2);
   border-radius: 40px;
-  font-size: 16px;
+  font-size: 20px;
   color: #fff;
   padding: 20px 45px 20px;
 }
@@ -208,6 +208,7 @@ margin-right: 3px;
 .container_nav_right--link:hover {
   color: #000;
 }
+
 
 
 
